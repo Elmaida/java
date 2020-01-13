@@ -12,11 +12,6 @@ public class biodataSanner {
         int TahunAngkatan;
         String jeniskelamin;
          
-        
-        
-       
-        
-        
         System.out.print("Masukkan Nama            : ");
          nama= input.next();
         
@@ -46,7 +41,4 @@ public class biodataSanner {
         System.out.println("Tahun Angkatan  : " + TahunAngkatan);
         System.out.println("Jenis Kelamin   : " + jeniskelamin);
        
-      }
-    
-    
-}
+    }}

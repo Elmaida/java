@@ -46,6 +46,5 @@ public class biodataBufferReader {
         //jika terdapat kesalahan saat menginputkan data
         System.out.println("Terjadi kesalahan pada input");
     }
-    
-}
+    }
 }
