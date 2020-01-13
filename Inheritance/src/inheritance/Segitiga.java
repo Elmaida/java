@@ -28,6 +28,4 @@ public class Segitiga extends main {
         System.out.println ("Luas Segitiga = " +ls);
         System.out.println("keiling Segitiga = "+ks);
         
-    }
-    
-}
+    } }

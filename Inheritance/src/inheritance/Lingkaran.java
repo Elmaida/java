@@ -22,6 +22,4 @@ public class Lingkaran extends main {
         System.out.println ("Luas Lingkaran = " + ll );
         System.out.println ("Keliling Lingkaran = " + kl);
     }
-    
-    
-}
+   }
